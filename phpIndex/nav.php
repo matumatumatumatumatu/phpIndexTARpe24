@@ -15,5 +15,8 @@
         <li>
             <a href="https://marttenkaja24.thkit.ee" target="_blank">Vana index.html</a>
         </li>
+        <li>
+            <a href="?leht=gitkasud.php">git Käsud</a>
+        </li>
     </ul>
 </nav>

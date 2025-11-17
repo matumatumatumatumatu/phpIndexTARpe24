@@ -1,0 +1,9 @@
+git init - uus repo
+git config --global user.name "matumatumatumatumatu"
+git config -- global user.email "kaja.martten@gmail.com"
+git config --global --list
+
+//ssh võti loomine
+ssh-keygen -o -t rsa C "kaja.martten@gmail.com"
+//võti salvestatakse opilane/-ssh kausta
+//id_rsa.pub tuleb kopeerida oma git hub -reposse-++99*/89*4
